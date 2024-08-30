@@ -1,10 +1,10 @@
 # Library-Mangement-System-by-Mern
 CLIENT
-npx create-react-app library
-npm i
-npm start
+npx create-react-app library <br>
+npm i <br>
+npm start <br> <br> 
 
-SERVER
-npm i 
-npm i express body-parser mongoose cors
+SERVER <br>
+npm i  <br> 
+npm i express body-parser mongoose cors <br>
 node app
